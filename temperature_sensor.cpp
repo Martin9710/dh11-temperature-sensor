@@ -1,5 +1,3 @@
-
-
 // Include libraries
 #include <dht.h>
 #include <LiquidCrystal.h>
